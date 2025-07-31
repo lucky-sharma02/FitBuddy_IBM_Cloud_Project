@@ -69,7 +69,4 @@ There is a growing need for an accessible, friendly, and intelligent virtual ass
 
 ---
 
-## 📁 Repository Contents
 
-- `README.md` – Project overview and usage guide  
-- `FitBuddy.ipynb` – Notebook with project flow, prompts, testing, or notes
